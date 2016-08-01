@@ -1,0 +1,20 @@
+[
+  {
+  	"remote":      "cyanogenmod",
+    "repository":  "android_device_samsung_klte-common",
+    "target_path": "device/samsung/klte-common",
+    "revision":    "cm-13.0"
+  },
+  {
+    "remote":      "cyanogenmod",
+    "repository":  "android_kernel_samsung_klte",
+    "target_path": "kernel/samsung/klte",
+    "revision":    "cm-13.0"
+  },
+  {
+  	"remote":      "cyanogenmod",
+  	"repository":  "android_device_samsung_msm8974-common",
+  	"target_path": "device/samsung/msm8974-common",
+  	"revision":    "cm-13.0"
+  }
+]
